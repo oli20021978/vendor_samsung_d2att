@@ -16,4 +16,4 @@
 
 # Pick up overlay for features that depend on non-open-source files
 
-$(call inherit-product, vendor/samsung/d2tmo/d2tmo-vendor-blobs.mk)
+$(call inherit-product, vendor/samsung/d2att/d2att-vendor-blobs.mk)
